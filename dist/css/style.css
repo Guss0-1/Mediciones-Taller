@@ -1,0 +1,19 @@
+.navbar-header{
+	min-height: 90px;
+}
+.sidebar{
+	margin-top: 90px;
+}
+textarea{
+	width: 60%;
+	resize: none;
+	min-height: 70px;
+}
+.glyphicon-pencil{
+	color: #ecd521;
+	margin-right: 10px;
+}
+.glyphicon-remove{
+	color: #ff0000;
+	margin-left: 10px;
+}

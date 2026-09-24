@@ -1,0 +1,221 @@
+#success_message,#warning_message,#warning_nro_documento{ display: none;}
+.yellow td, .yellow{background: yellow !important}
+.red td, .red{background: #ffb7b7 !important}
+.estado_resaltado{ padding: 10px; font-weight: bold; font-size: 18px }
+.fecha_comprometida{ font-weight: bold; font-size: 20px }
+.historial_estados td{ padding: 20px; border-bottom: 1px solid #ccc }
+.detalle_estados td{ padding: 20px; border-bottom: 1px solid #ccc }
+
+.row500 {
+  height: 550px;
+}
+
+.total_ordenes{
+  font-size: 40px;
+}
+
+.panel-default > .titulo_totales {
+    font-size: 20px
+}
+
+.panel-default > .ttazul {
+    background: #007bff; color: #fff;
+}
+
+.panel-default > .ttverde {
+    background: #28a745; color: #fff;
+}
+
+.panel-default > .ttamarillo {
+    background: #ffc107; color: #fff;
+}
+
+.panel-default > .ttrojo {
+    background: #dc3545; color: #fff;
+}
+
+.panel-default > .panel-body{
+  padding: 0
+}
+
+.panel-default{
+  margin-bottom: 15px
+}
+
+.titulo_jefe_grupo{
+  margin: 0;
+  padding:0;
+  font-size: 35px
+}
+
+.ticket-amarillo {
+  border-radius: 25px;
+  background: #ffc107;
+  padding: 10px;
+  width: 600px;
+  font-size: 20px;
+  font-weight:bold;
+  min-height: 300px;
+  overflow: hidden;
+
+
+}
+
+.ticket-verde {
+  border-radius: 25px;
+  background: #28A745;
+  padding: 10px;
+  width: 600px;
+  font-size: 20px;
+  font-weight:bold;
+  min-height: 300px;
+  overflow: hidden;
+
+
+}
+
+.ticket-rojo {
+  border-radius: 25px;
+  background: #dc3545;
+  padding: 10px;
+  width: 600px;
+  font-size: 20px;
+  font-weight:bold;
+  min-height: 300px;
+  overflow: hidden;
+
+
+}
+
+.tiempos_ordenes tr:first-child td{ font-weight: bold; color: green }
+
+.alert-warning{
+	background: #f7e96a !important;
+	border: 1px solid #d3c11d;
+}
+
+.table tbody tr.llegaobjetivo, .table tbody tr > td.llegaobjetivo, .llegaobjetivo {
+  background-color: #95db5c !important;
+  color: black
+}
+
+.table tbody tr.alertanollegaobjetivo, .table tbody tr > td.alertanollegaobjetivo, .alertanollegaobjetivo {
+  background-color: #fff400 !important;
+  color: black
+}
+
+.table tbody tr.nollegaobjetivo, .table tbody tr > td.nollegaobjetivo, .nollegaobjetivo {
+  background-color: #ff0000 !important;
+  color: white
+}
+
+h5{
+	padding: 5px;
+	width: 20%;
+	margin: 0
+}
+
+.titulo-seccion, .titulo-seccion h2{
+	padding: 0 !important;
+	text-align: center;
+}
+
+.titulo-estado{
+  text-align: center;
+  font-weight: bold;
+  padding: 2px
+}
+
+.table-condensed th, .table-condensed td
+{
+	/*border-right: 5px solid #ccc;*/
+}
+
+@-webkit-viewport {
+    width: device-width;
+}
+
+@-moz-viewport {
+    width: device-width;
+}
+
+@-ms-viewport {
+    width: device-width;
+}
+
+@-o-viewport {
+    width: device-width;
+}
+
+@viewport {
+    width: device-width;
+}
+
+body {
+    padding-top: 70px;
+}
+.suc{
+    background: red
+}
+
+.swipe {
+  overflow: hidden;
+  visibility: hidden;
+  position: relative;
+}
+.swipe-wrap {
+  overflow: hidden;
+  position: relative;
+}
+.swipe-wrap > div {
+  float:left;
+  width:100%;
+  position: relative;
+}
+
+.list-group-item-blue{
+  color: white;
+  background-color: #303bb2;
+}
+
+.list-group-item-black{
+  color: white;
+  background-color: black;
+}
+
+.list-group-item-green{
+  color: white;
+  background-color: green;
+}
+
+.list-group-item-orange{
+  color: white;
+  background-color: orange;
+}
+
+.list-group-item-red{
+  color: white;
+  background-color: red;
+}
+
+.errorBox {
+ vertical-align: 4px;
+ color:#a94442;
+ border:1px solid black;
+ border-radius: 4px;
+ border-color:#a94442;
+ box-sizing:border-box;
+ display:inline-block;
+ padding: 5px;
+
+}
+
+/*.slider_estados {
+    position:relative;
+}
+.slider_estados > .slide {
+    height:100%;
+    width:100%;
+    position: top: 0; left: 0;
+
+}*/

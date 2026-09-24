@@ -1,0 +1,100 @@
+
+Veamos que ocurre con esta OT OTC22-00391 en este estado actual: 4 nuevo estado: 11
+--OT nro OTC22-00391 estado actual: 4 envia correo a asesor de servicios 222  * llega al punto x  *llega al punto antes del final para enviar  *final debe enviar SMTP Error: Could not authenticate.<p>SMTP server error: </p>
+
+Veamos que ocurre con esta OT OTC22-00397 en este estado actual: 5 nuevo estado: 5
+--OT nro OTC22-00397 estado actual: 5 envia correo a asesor de servicios 222  * llega al punto x  *llega al punto antes del final para enviar  *final debe enviar 
+Veamos que ocurre con esta OT OTC22-00410 en este estado actual: 1 nuevo estado: 5
+--OT nro OTC22-00410 estado actual: 1 envia correo a asesor de servicios 222  * llega al punto x  *llega al punto antes del final para enviar  *final debe enviar 
+Veamos que ocurre con esta OT OTC22-00342 en este estado actual: 4 nuevo estado: 4
+--OT nro OTC22-00342 estado actual: 4 envia correo a asesor de servicios 222  * llega al punto x  *llega al punto antes del final para enviar  *final debe enviar 
+Veamos que ocurre con esta OT OTC21-04973 en este estado actual: 4 nuevo estado: 4
+--OT nro OTC21-04973 estado actual: 4 envia correo a asesor de servicios 222  * llega al punto x  *llega al punto antes del final para enviar  *final debe enviar 
+Veamos que ocurre con esta OT OTH22-00121 en este estado actual: 4 nuevo estado: 13
+--OT nro OTH22-00121 estado actual: 4 envia correo a asesor de servicios 222  * llega al punto x  *llega al punto antes del final para enviar  *final debe enviar 
+Veamos que ocurre con esta OT OTH22-00116 en este estado actual: 4 nuevo estado: 4
+--OT nro OTH22-00116 estado actual: 4 envia correo a asesor de servicios 222  * llega al punto x  *llega al punto antes del final para enviar  *final debe enviar 
+Veamos que ocurre con esta OT OTC22-00395 en este estado actual: 4 nuevo estado: 5
+--OT nro OTC22-00395 estado actual: 4 envia correo a asesor de servicios 222  * llega al punto x  *llega al punto antes del final para enviar  *final debe enviar 
+Veamos que ocurre con esta OT OTC22-00184 en este estado actual: 5 nuevo estado: 5
+--OT nro OTC22-00184 estado actual: 5 envia correo a asesor de servicios 222  * llega al punto x  *llega al punto antes del final para enviar  *final debe enviar 
+Veamos que ocurre con esta OT OTC22-00420 en este estado actual: 1 nuevo estado: 5
+--OT nro OTC22-00420 estado actual: 1 envia correo a asesor de servicios 222  * llega al punto x  *llega al punto antes del final para enviar  *final debe enviar 
+Veamos que ocurre con esta OT OTH22-00110 en este estado actual: 1 nuevo estado: 4
+--OT nro OTH22-00110 ingresa a preparar servicio y presupuesto 
+--Envia un correo al asesor de servicios
+Veamos que ocurre con esta OT OTC22-00391 en este estado actual: 11 nuevo estado: 5
+--OT nro OTC22-00391 estado actual: 11 envia correo a asesor de servicios 222  * llega al punto x  *llega al punto antes del final para enviar  *final debe enviar 
+Veamos que ocurre con esta OT OTC22-00418 en este estado actual: 1 nuevo estado: 4
+--OT nro OTC22-00418 estado actual: 1 envia correo a asesor de servicios 222  * llega al punto x  *llega al punto antes del final para enviar  *final debe enviar 
+Veamos que ocurre con esta OT OTH22-00110 en este estado actual: 4 nuevo estado: 4
+--OT nro OTH22-00110 estado actual: 4 envia correo a asesor de servicios 222  * llega al punto x  *llega al punto antes del final para enviar  *final debe enviar 
+Veamos que ocurre con esta OT OTH22-00120 en este estado actual: 1 nuevo estado: 4
+--OT nro OTH22-00120 ingresa a preparar servicio y presupuesto 
+--Envia un correo al asesor de servicios
+Veamos que ocurre con esta OT OTH22-00110 en este estado actual: 4 nuevo estado: 13
+--OT nro OTH22-00110 estado actual: 4 envia correo a asesor de servicios 222  * llega al punto x  *llega al punto antes del final para enviar  *final debe enviar 
+Veamos que ocurre con esta OT OTC22-00421 en este estado actual: 1 nuevo estado: 4
+--OT nro OTC22-00421 estado actual: 1 envia correo a asesor de servicios 222  * llega al punto x  *llega al punto antes del final para enviar  *final debe enviar 
+Veamos que ocurre con esta OT OTH22-00110 en este estado actual: 13 nuevo estado: 10
+--OT nro OTH22-00110 estado actual: 13 envia correo a asesor de servicios 222  * llega al punto x  *llega al punto antes del final para enviar  *final debe enviar 
+Veamos que ocurre con esta OT OTC22-00399 en este estado actual: 7 nuevo estado: 17
+--OT nro OTC22-00399 estado actual: 7 envia correo a asesor de servicios 222  * llega al punto x  *llega al punto antes del final para enviar  *final debe enviar 
+Veamos que ocurre con esta OT OTC22-00386 en este estado actual: 17 nuevo estado: 17
+--OT nro OTC22-00386 estado actual: 17 envia correo a asesor de servicios 222  * llega al punto x  *llega al punto antes del final para enviar  *final debe enviar 
+Veamos que ocurre con esta OT OTC22-00397 en este estado actual: 5 nuevo estado: 6
+--OT nro OTC22-00397 estado actual: 5 envia correo a asesor de servicios 222  * llega al punto x  *llega al punto antes del final para enviar  *final debe enviar 
+Veamos que ocurre con esta OT OTC22-00397 en este estado actual: 6 nuevo estado: 9
+--OT nro OTC22-00397 estado actual: 6 envia correo a asesor de servicios 222  * llega al punto x  *llega al punto antes del final para enviar  *final debe enviar 
+Veamos que ocurre con esta OT OTC22-00397 en este estado actual: 9 nuevo estado: 10
+--OT nro OTC22-00397 estado actual: 9 envia correo a asesor de servicios 222  * llega al punto x  *llega al punto antes del final para enviar 
+Veamos que ocurre con esta OT OTC22-00398 en este estado actual: 10 nuevo estado: 10
+--OT nro OTC22-00398 estado actual: 10 envia correo a asesor de servicios 222  * llega al punto x  *llega al punto antes del final para enviar  *final debe enviar 
+Veamos que ocurre con esta OT OTC22-00396 en este estado actual: 11 nuevo estado: 9
+--OT nro OTC22-00396 estado actual: 11 envia correo a asesor de servicios 222  * llega al punto x  *llega al punto antes del final para enviar  *final debe enviar 
+Veamos que ocurre con esta OT OTH22-00121 en este estado actual: 13 nuevo estado: 10
+--OT nro OTH22-00121 estado actual: 13 envia correo a asesor de servicios 222  * llega al punto x  *llega al punto antes del final para enviar  *final debe enviar 
+Veamos que ocurre con esta OT OTC22-00396 en este estado actual: 9 nuevo estado: 10
+--OT nro OTC22-00396 estado actual: 9 envia correo a asesor de servicios 222  * llega al punto x  *llega al punto antes del final para enviar  *final debe enviar 
+Veamos que ocurre con esta OT OTC22-00396 en este estado actual: 10 nuevo estado: 10
+--OT nro OTC22-00396 estado actual: 10 envia correo a asesor de servicios 222  * llega al punto x  *llega al punto antes del final para enviar  *final debe enviar 
+Veamos que ocurre con esta OT OTC22-00419 en este estado actual: 1 nuevo estado: 5
+--OT nro OTC22-00419 estado actual: 1 envia correo a asesor de servicios 222  * llega al punto x  *llega al punto antes del final para enviar  *final debe enviar 
+Veamos que ocurre con esta OT OTC22-00420 en este estado actual: 5 nuevo estado: 5
+--OT nro OTC22-00420 estado actual: 5 envia correo a asesor de servicios 222  * llega al punto x  *llega al punto antes del final para enviar  *final debe enviar 
+Veamos que ocurre con esta OT OTC22-00409 en este estado actual: 17 nuevo estado: 17
+--OT nro OTC22-00409 estado actual: 17 envia correo a asesor de servicios 222  * llega al punto x  *llega al punto antes del final para enviar  *final debe enviar 
+Veamos que ocurre con esta OT OTC22-00370 en este estado actual: 1 nuevo estado: 5
+--OT nro OTC22-00370 estado actual: 1 envia correo a asesor de servicios 222  * llega al punto x  *llega al punto antes del final para enviar  *final debe enviar 
+Veamos que ocurre con esta OT OTH22-00120 en este estado actual: 4 nuevo estado: 4
+--OT nro OTH22-00120 estado actual: 4 envia correo a asesor de servicios 222  * llega al punto x  *llega al punto antes del final para enviar  *final debe enviar 
+Veamos que ocurre con esta OT OTC22-00342 en este estado actual: 4 nuevo estado: 13
+--OT nro OTC22-00342 estado actual: 4 envia correo a asesor de servicios 222  * llega al punto x  *llega al punto antes del final para enviar  *final debe enviar 
+Veamos que ocurre con esta OT OTC22-00415 en este estado actual: 4 nuevo estado: 13
+--OT nro OTC22-00415 estado actual: 4 envia correo a asesor de servicios 222  * llega al punto x  *llega al punto antes del final para enviar  *final debe enviar 
+Veamos que ocurre con esta OT OTC22-00403 en este estado actual: 17 nuevo estado: 17
+--OT nro OTC22-00403 estado actual: 17 envia correo a asesor de servicios 222  * llega al punto x  *llega al punto antes del final para enviar  *final debe enviar 
+Veamos que ocurre con esta OT OTC22-00405 en este estado actual: 4 nuevo estado: 17
+--OT nro OTC22-00405 estado actual: 4 envia correo a asesor de servicios 222  * llega al punto x  *llega al punto antes del final para enviar  *final debe enviar 
+Veamos que ocurre con esta OT OTH22-00120 en este estado actual: 4 nuevo estado: 13
+--OT nro OTH22-00120 estado actual: 4 envia correo a asesor de servicios 222  * llega al punto x  *llega al punto antes del final para enviar  *final debe enviar 
+Veamos que ocurre con esta OT OTC22-00272 en este estado actual: 23 nuevo estado: 13
+--OT nro OTC22-00272 estado actual: 23 envia correo a asesor de servicios 222  * llega al punto x  *llega al punto antes del final para enviar  *final debe enviar 
+Veamos que ocurre con esta OT OTC22-00409 en este estado actual: 17 nuevo estado: 2
+--OT nro OTC22-00409 estado actual: 17 envia correo a asesor de servicios 222  * llega al punto x  *llega al punto antes del final para enviar  *final debe enviar 
+Veamos que ocurre con esta OT OTH22-00119 en este estado actual: 4 nuevo estado: 4
+--OT nro OTH22-00119 estado actual: 4 envia correo a asesor de servicios 222  * llega al punto x  *llega al punto antes del final para enviar  *final debe enviar 
+Veamos que ocurre con esta OT OTH22-00120 en este estado actual: 13 nuevo estado: 10
+--OT nro OTH22-00120 estado actual: 13 envia correo a asesor de servicios 222  * llega al punto x  *llega al punto antes del final para enviar 
+Veamos que ocurre con esta OT OTC22-00403 en este estado actual: 17 nuevo estado: 2
+--OT nro OTC22-00403 estado actual: 17 envia correo a asesor de servicios 222  * llega al punto x  *llega al punto antes del final para enviar  *final debe enviar 
+Veamos que ocurre con esta OT OTH22-00119 en este estado actual: 4 nuevo estado: 13
+--OT nro OTH22-00119 estado actual: 4 envia correo a asesor de servicios 222  * llega al punto x  *llega al punto antes del final para enviar  *final debe enviar 
+Veamos que ocurre con esta OT OTH22-00120 en este estado actual: 10 nuevo estado: 10
+--OT nro OTH22-00120 estado actual: 10 envia correo a asesor de servicios 222  * llega al punto x  *llega al punto antes del final para enviar  *final debe enviar 
+Veamos que ocurre con esta OT OTC22-00415 en este estado actual: 13 nuevo estado: 9
+--OT nro OTC22-00415 estado actual: 13 envia correo a asesor de servicios 222  * llega al punto x  *llega al punto antes del final para enviar  *final debe enviar 
+Veamos que ocurre con esta OT OTC22-00424 en este estado actual: 1 nuevo estado: 4
+--OT nro OTC22-00424 estado actual: 1 envia correo a asesor de servicios 222  * llega al punto x  *llega al punto antes del final para enviar  *final debe enviar 
+Veamos que ocurre con esta OT OTC22-00407 en este estado actual: 1 nuevo estado: 22
+--OT nro OTC22-00407 estado actual: 1 envia correo a asesor de servicios 222  * llega al punto x  *llega al punto antes del final para enviar  *final debe enviar 
